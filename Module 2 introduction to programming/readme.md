@@ -9,3 +9,9 @@ __003_operators__: assignment operator(=), conditional operators(>,<,>=,<=,==,!=
 __004_conditional_statements_1__: if-else statements
 
 __005_conditional_statements_2__: nested-if statements
+
+The function bin(number) will result in conversion of a decimal number to binary form.
+
+The function range(a,b) will result in b-a values.
+
+number of terms between [a,b] = b-a+1, (a,b) = b-a-1, (a,b] = b-a, [a,b) = b-a
