@@ -15,3 +15,9 @@ The function bin(number) will result in conversion of a decimal number to binary
 The function range(a,b) will result in b-a values.
 
 number of terms between [a,b] = b-a+1, (a,b) = b-a-1, (a,b] = b-a, [a,b) = b-a
+
+__006_maths__: to find the value of logb(a) = math.log(a,b)
+
+to print the result of binary multiplication: print(bin(int("1100", 2) * int("10", 2))[2:])
+
+__007_while_loop__: use of end = " " in print statement to print aall the elements in the loop in the same line.
