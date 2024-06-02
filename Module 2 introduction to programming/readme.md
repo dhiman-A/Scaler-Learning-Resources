@@ -1,4 +1,4 @@
-This module is about the basics of python programming language. The following concepts were taught in these notebooks:
+__This module is about the basics of python programming language. The following concepts were taught in these notebooks:__
 
 __001_Basics__ : print function print(), \n for newline character, concatenation operator
 
