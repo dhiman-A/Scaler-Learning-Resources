@@ -20,4 +20,4 @@ __006_maths__: to find the value of logb(a) = math.log(a,b)
 
 to print the result of binary multiplication: print(bin(int("1100", 2) * int("10", 2))[2:])
 
-__007_while_loop__: use of end = " " in print statement to print aall the elements in the loop in the same line.
+__007_while_loop__: use of end = " " in print statement to print all the elements in the loop in the same line.
